@@ -1,0 +1,8 @@
+torch>=2.3
+torchvision>=0.18
+numpy==2.4.4
+scipy==1.17.1
+opencv-python==4.13.0.92
+albumentations==2.0.8
+tensorboard==2.20.0
+tqdm==4.67.3
