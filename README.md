@@ -2,7 +2,7 @@
 
 ## A Bone-Prior-Guided Multimodal Network for Whole-Body PET/CT Bone Metastasis Segmentation
 
-**Xiaolu Xu, Chengjie Lu, Jingyi Zhou, Pinxiao Yu, Yuxing Li, Ying Ding, and Xiaomeng Li**
+**Xiaolu Xu, Chengjie Lu, Jingyi Zhou, Pinxiao Yu, Yulong Li, Ying Ding, and Xiaomeng Li**
 
 BonMSeg combines CT-derived bone priors, lesion geometry-aware attention, and foreground-background dual-band fusion for bone metastasis segmentation in whole-body PET/CT images.
 
